@@ -1,0 +1,127 @@
+.nl-pnt-ms-hero-top {
+    background-color: #2babe2;
+}
+
+.nl-pnt-ms-hero-main {
+    margin-bottom: 20px;
+}
+
+.hero .hero-body {
+    padding: 1rem 0.5rem;
+}
+
+.nl-pnt-ms-logo {
+    height: 100px;
+}
+.menu-list {
+    line-height: 1.25;
+}
+
+.menu-list li {
+    padding: 10px;
+}
+
+/* Navigation tabs */
+.nl-pnt-ms-admin .tabs {
+    width: 100%;
+    margin-top: 1.5rem;
+    border: none;
+}
+
+.nl-pnt-ms-admin .tabs ul {
+    height: auto;
+}
+
+.nl-pnt-ms-admin .tabs li {
+    width: auto;
+    margin: 0;
+    line-height: 1.5;
+    color: #4a4a4a;
+}
+
+.nl-pnt-ms-admin .tabs li a {
+    display: flex;
+    height: auto;
+    padding: .5em 1em;
+    line-height: 1.5;
+    background: none;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #dbdbdb;
+    margin: 0;
+    color: #4a4a4a;
+}
+
+.nl-pnt-ms-admin .tabs li.is-active a {
+    background-color: #2babe2;
+    border-color: #2babe2;
+}
+
+.nl-pnt-ms-admin .tab-content {
+    display: none;
+}
+
+.nl-pnt-ms-admin .tab-content.is-active {
+    display: block;
+}
+
+
+/* Input error */
+#nl-pnt-ms-new-token.nl-pnt-ms-input-error input {
+    border: 1px solid hsl(348, 100%, 61%)	;
+}
+
+.nl-pnt-ms-error-text {
+    color: hsl(348, 100%, 61%)	;
+    font-weight: bold;
+    display: block;
+}
+
+.nl-pnt-ms-form-update {
+    display: inline-block;
+}
+
+.nl-pnt-ms-btn-icon {
+    display: inline-block;
+    background-color: DodgerBlue;
+    border: none;
+    color: white;
+    padding: 4px 10px;
+    border-radius: 3px;
+    font-size: 12px;
+    cursor: pointer;
+    transition: box-shadow .15s ease-in-out;
+}
+
+.nl-pnt-ms-btn-icon:hover {
+    color: white;
+    filter: brightness(85%);
+}
+
+.nl-pnt-ms-btn-icon:disabled {
+    background-color: grey;
+    cursor: not-allowed;
+}
+
+
+/* Notifications */
+.nl-pnt-ms-bg-success {
+    background-color: #28a745;
+}
+
+.nl-pnt-ms-bg-warning {
+    background-color: #ffc107;
+}
+
+.nl-pnt-ms-bg-danger {
+    background-color: #dc3545;
+}
+
+.nl-pnt-ms-statusbox {
+    padding: 4px 0px;
+    color: white;
+    text-align: center;
+    box-sizing: border-box;
+    border-radius: 3px;
+    min-width: 80px;
+}

@@ -1,0 +1,372 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-02-14 13:54+0100\n"
+"PO-Revision-Date: 2020-02-14 13:54+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-makelaarsservice-admin.php:92
+msgid "Welkom"
+msgstr ""
+
+#: admin/class-makelaarsservice-admin.php:93
+msgid "Instructies"
+msgstr ""
+
+#: admin/class-makelaarsservice-admin.php:160
+#: admin/partials/makelaarsservice-admin-display.php:42
+msgid "Instellingen"
+msgstr ""
+
+#: admin/class-makelaarsservice-admin.php:183
+msgid "Opties"
+msgstr ""
+
+#: admin/class-makelaarsservice-admin.php:190
+msgid "Accent kleur"
+msgstr ""
+
+#: admin/class-makelaarsservice-admin.php:268
+#: public/archive-estate_property.php:14
+msgid "Objecten"
+msgstr ""
+
+#: admin/class-makelaarsservice-admin.php:269
+msgid "Object"
+msgstr ""
+
+#: admin/class-makelaarsservice-admin.php:270
+msgid "Nieuw object toevoegen"
+msgstr ""
+
+#: admin/class-makelaarsservice-admin.php:271
+msgid "Object toevoegen"
+msgstr ""
+
+#: admin/class-makelaarsservice-admin.php:272
+#: admin/class-makelaarsservice-admin.php:326
+msgid "Bewerken"
+msgstr ""
+
+#: admin/class-makelaarsservice-admin.php:273
+msgid "Object bewerken"
+msgstr ""
+
+#: admin/class-makelaarsservice-admin.php:274
+#: admin/class-makelaarsservice-admin.php:328
+msgid "Bekijken"
+msgstr ""
+
+#: admin/class-makelaarsservice-admin.php:275
+msgid "Object bekijken"
+msgstr ""
+
+#: admin/class-makelaarsservice-admin.php:276
+msgid "Object zoeken"
+msgstr ""
+
+#: admin/class-makelaarsservice-admin.php:277
+msgid "Geen objecten gevonden"
+msgstr ""
+
+#: admin/class-makelaarsservice-admin.php:278
+msgid "Geen objecten in prullenmand gevonden"
+msgstr ""
+
+#: admin/class-makelaarsservice-admin.php:282
+msgid "objecten"
+msgstr ""
+
+#: admin/class-makelaarsservice-admin.php:294
+#: admin/class-makelaarsservice-admin.php:345
+#: public/single-estate_property.php:36 public/single-estate_property.php:139
+msgid "Plaats"
+msgstr ""
+
+#: admin/class-makelaarsservice-admin.php:295
+#: admin/class-makelaarsservice-admin.php:346
+msgid "Plaats toevoegen"
+msgstr ""
+
+#: admin/class-makelaarsservice-admin.php:296
+#: admin/class-makelaarsservice-admin.php:347
+msgid "Nieuwe plaats"
+msgstr ""
+
+#: admin/class-makelaarsservice-admin.php:297
+msgid "Geen plaatsen gevonden"
+msgstr ""
+
+#: admin/class-makelaarsservice-admin.php:308
+msgid "Categorie"
+msgstr ""
+
+#: admin/class-makelaarsservice-admin.php:309
+msgid "Categorie toevoegen"
+msgstr ""
+
+#: admin/class-makelaarsservice-admin.php:310
+msgid "Nieuwe categorie"
+msgstr ""
+
+#: admin/class-makelaarsservice-admin.php:311
+msgid "Geen categorieën gevonden"
+msgstr ""
+
+#: admin/class-makelaarsservice-admin.php:322
+msgid "Makelaars"
+msgstr ""
+
+#: admin/class-makelaarsservice-admin.php:323
+msgid "Makelaar"
+msgstr ""
+
+#: admin/class-makelaarsservice-admin.php:324
+msgid "Nieuwe makelaar toevoegen"
+msgstr ""
+
+#: admin/class-makelaarsservice-admin.php:325
+msgid "Makelaar toevoegen"
+msgstr ""
+
+#: admin/class-makelaarsservice-admin.php:327
+msgid "Makelaar bewerken"
+msgstr ""
+
+#: admin/class-makelaarsservice-admin.php:329
+msgid "Makelaar bekijken"
+msgstr ""
+
+#: admin/class-makelaarsservice-admin.php:330
+msgid "Makelaar zoeken"
+msgstr ""
+
+#: admin/class-makelaarsservice-admin.php:331
+msgid "Geen makelaars gevonden"
+msgstr ""
+
+#: admin/class-makelaarsservice-admin.php:332
+msgid "Geen makelaars in prullenmand gevonden"
+msgstr ""
+
+#: admin/class-makelaarsservice-admin.php:336
+msgid "makelaars"
+msgstr ""
+
+#: admin/class-makelaarsservice-admin.php:1016
+msgid "Ongeldig"
+msgstr ""
+
+#: admin/class-makelaarsservice-admin.php:1028
+msgid "Gepauzeerd"
+msgstr ""
+
+#: admin/class-makelaarsservice-admin.php:1036
+msgid "Actief"
+msgstr ""
+
+#: admin/partials/makelaarsservice-admin-display.php:36
+msgid "Tokens"
+msgstr ""
+
+#: admin/partials/makelaarsservice-admin-display.php:53
+msgid "Naam"
+msgstr ""
+
+#: admin/partials/makelaarsservice-admin-display.php:54
+msgid "Token"
+msgstr ""
+
+#: admin/partials/makelaarsservice-admin-display.php:55
+msgid "Status"
+msgstr ""
+
+#: admin/partials/makelaarsservice-admin-display.php:56
+msgid "Laatst bijgewerkt"
+msgstr ""
+
+#: admin/partials/makelaarsservice-admin-display.php:69
+msgid "Toevoegen"
+msgstr ""
+
+#: admin/partials/makelaarsservice-admin-display.php:122
+msgid "Opslaan"
+msgstr ""
+
+#: public/archive-estate_property.php:41
+msgid "Woon opp."
+msgstr ""
+
+#: public/archive-estate_property.php:45
+msgid "Perceel opp."
+msgstr ""
+
+#: public/archive-estate_property.php:49 public/single-estate_property.php:151
+msgid "Slaapkamers"
+msgstr ""
+
+#: public/single-estate_property.php:16
+msgid "Aanbouw steen"
+msgstr ""
+
+#: public/single-estate_property.php:17
+msgid "Garage mogelijk"
+msgstr ""
+
+#: public/single-estate_property.php:18
+msgid "Aanbouw hout"
+msgstr ""
+
+#: public/single-estate_property.php:19
+msgid "Vrijstaand steen"
+msgstr ""
+
+#: public/single-estate_property.php:20
+msgid "Vrijstaand hout"
+msgstr ""
+
+#: public/single-estate_property.php:21
+msgid "Inpandig"
+msgstr ""
+
+#: public/single-estate_property.php:22
+msgid "Garagebox"
+msgstr ""
+
+#: public/single-estate_property.php:23
+msgid "Parkeerkelder"
+msgstr ""
+
+#: public/single-estate_property.php:24
+msgid "Carport"
+msgstr ""
+
+#: public/single-estate_property.php:25
+msgid "Parkeerplaats"
+msgstr ""
+
+#: public/single-estate_property.php:26
+msgid "Garage met carport"
+msgstr ""
+
+#: public/single-estate_property.php:31
+msgid "Achtertuin"
+msgstr ""
+
+#: public/single-estate_property.php:32
+msgid "Voortuin"
+msgstr ""
+
+#: public/single-estate_property.php:33
+msgid "Zijtuin"
+msgstr ""
+
+#: public/single-estate_property.php:34
+msgid "Tuin rondom"
+msgstr ""
+
+#: public/single-estate_property.php:35
+msgid "Patio"
+msgstr ""
+
+#: public/single-estate_property.php:37
+msgid "Zonterras"
+msgstr ""
+
+#: public/single-estate_property.php:42
+msgid "Dakisolatie"
+msgstr ""
+
+#: public/single-estate_property.php:43
+msgid "Muurisolatie"
+msgstr ""
+
+#: public/single-estate_property.php:44
+msgid "Vloerisolatie"
+msgstr ""
+
+#: public/single-estate_property.php:45
+msgid "Volledig geïsoleerd"
+msgstr ""
+
+#: public/single-estate_property.php:46
+msgid "Spouwmuur"
+msgstr ""
+
+#: public/single-estate_property.php:47
+msgid "Ankerloze spouwmuur"
+msgstr ""
+
+#: public/single-estate_property.php:48
+msgid "Ecobouw"
+msgstr ""
+
+#: public/single-estate_property.php:49
+msgid "Dubbelglas"
+msgstr ""
+
+#: public/single-estate_property.php:50
+msgid "Gedeeltelijk dubbelglas"
+msgstr ""
+
+#: public/single-estate_property.php:51
+msgid "Voorzetramen"
+msgstr ""
+
+#: public/single-estate_property.php:108
+msgid "Beschrijving"
+msgstr ""
+
+#: public/single-estate_property.php:122
+msgid "Eigenschappen"
+msgstr ""
+
+#: public/single-estate_property.php:129
+msgid "Adres"
+msgstr ""
+
+#: public/single-estate_property.php:134
+msgid "Postcode"
+msgstr ""
+
+#: public/single-estate_property.php:156
+msgid "Bouwjaar"
+msgstr ""
+
+#: public/single-estate_property.php:161
+msgid "Woonoppervlakte"
+msgstr ""
+
+#: public/single-estate_property.php:166
+msgid "Perceeloppervlakte"
+msgstr ""
+
+#: public/single-estate_property.php:171
+msgid "Energielabel"
+msgstr ""
+
+#: public/single-estate_property.php:176
+msgid "Garage"
+msgstr ""
+
+#: public/single-estate_property.php:181
+msgid "Tuin"
+msgstr ""
+
+#: public/single-estate_property.php:186
+msgid "Isolatie"
+msgstr ""
+
+#: public/single-estate_property.php:191
+msgid "Nieuwbouw"
+msgstr ""
